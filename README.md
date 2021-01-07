@@ -2,6 +2,8 @@
 flask-start is a ready-to-use scalable flask architecture for projects of any size. 
 It offers a lighter and more flexible alternative to Django.
 
+![](flask-start.gif)
+
 
 flask-start comes with the following configurations:
 
@@ -11,7 +13,7 @@ flask-start comes with the following configurations:
 - Login (Flask-Login)
 - Web Forms (Flask-WTF)
 - Mail (Flask-Mail)
-- Date & Time rendering (Moment.js & Flask-JS)
+- Date & Time rendering (Moment.js & Flask-Moment)
 - I18n and L10n (Flask-Babel & Simplified CLI commands)
 - Task Queues (Redis & RQ)
 
